@@ -1,0 +1,1123 @@
+header {
+  gtfs_realtime_version: "2.0"
+  incrementality: FULL_DATASET
+  timestamp: 1613201817
+}
+entity {
+  id: "2305"
+  vehicle {
+    position {
+      latitude: 30.25675
+      longitude: -97.70951
+      speed: 0.0
+    }
+    timestamp: 1613201814
+    vehicle {
+      id: "2305"
+      label: "2305"
+    }
+    occupancy_percentage: 0
+  }
+}
+entity {
+  id: "2303"
+  vehicle {
+    position {
+      latitude: 30.256557
+      longitude: -97.70813
+      speed: 0.0
+    }
+    timestamp: 1613201813
+    vehicle {
+      id: "2303"
+      label: "2303"
+    }
+    occupancy_percentage: 0
+  }
+}
+entity {
+  id: "2301"
+  vehicle {
+    position {
+      latitude: 30.256493
+      longitude: -97.70822
+      speed: 0.0
+    }
+    timestamp: 1613201814
+    vehicle {
+      id: "2301"
+      label: "2301"
+    }
+    occupancy_percentage: 0
+  }
+}
+entity {
+  id: "2421"
+  vehicle {
+    position {
+      latitude: 30.257462
+      longitude: -97.70893
+      speed: 0.0
+    }
+    timestamp: 1613201814
+    vehicle {
+      id: "2421"
+      label: "2421"
+    }
+    occupancy_percentage: 0
+  }
+}
+entity {
+  id: "2558"
+  vehicle {
+    position {
+      latitude: 30.37536
+      longitude: -97.72345
+      speed: 0.0
+    }
+    timestamp: 1613201297
+    vehicle {
+      id: "2558"
+      label: "2558"
+    }
+    occupancy_percentage: 0
+  }
+}
+entity {
+  id: "2207"
+  vehicle {
+    position {
+      latitude: 30.25671
+      longitude: -97.70878
+      speed: 0.0
+    }
+    timestamp: 1613201810
+    vehicle {
+      id: "2207"
+      label: "2207"
+    }
+    occupancy_percentage: 0
+  }
+}
+entity {
+  id: "2201"
+  vehicle {
+    position {
+      latitude: 30.25789
+      longitude: -97.7089
+      speed: 0.0
+    }
+    timestamp: 1613201808
+    vehicle {
+      id: "2201"
+      label: "2201"
+    }
+    occupancy_percentage: 0
+  }
+}
+entity {
+  id: "2699"
+  vehicle {
+    position {
+      latitude: 30.29118
+      longitude: -97.7414
+      speed: 0.0
+    }
+    timestamp: 1613201770
+    vehicle {
+      id: "2699"
+      label: "2699"
+    }
+  }
+}
+entity {
+  id: "2213"
+  vehicle {
+    position {
+      latitude: 30.25689
+      longitude: -97.708694
+      bearing: 199.0
+      speed: 0.312928
+    }
+    timestamp: 1613201816
+    vehicle {
+      id: "2213"
+      label: "2213"
+    }
+    occupancy_percentage: 0
+  }
+}
+entity {
+  id: "2225"
+  vehicle {
+    position {
+      latitude: 30.25725
+      longitude: -97.70851
+      speed: 0.0
+    }
+    timestamp: 1613201438
+    vehicle {
+      id: "2225"
+      label: "2225"
+    }
+    occupancy_percentage: 0
+  }
+}
+entity {
+  id: "2114"
+  vehicle {
+    position {
+      latitude: 30.375673
+      longitude: -97.72462
+      speed: 0.0
+    }
+    timestamp: 1613201812
+    vehicle {
+      id: "2114"
+      label: "2114"
+    }
+    occupancy_percentage: 0
+  }
+}
+entity {
+  id: "2112"
+  vehicle {
+    position {
+      latitude: 30.37525
+      longitude: -97.72488
+      speed: 0.0
+    }
+    timestamp: 1613201813
+    vehicle {
+      id: "2112"
+      label: "2112"
+    }
+    occupancy_percentage: 0
+  }
+}
+entity {
+  id: "2132"
+  vehicle {
+    position {
+      latitude: 30.37634
+      longitude: -97.72428
+      speed: 0.0
+    }
+    timestamp: 1613201812
+    vehicle {
+      id: "2132"
+      label: "2132"
+    }
+    occupancy_percentage: 0
+  }
+}
+entity {
+  id: "2123"
+  vehicle {
+    position {
+      latitude: 30.37621
+      longitude: -97.724335
+      speed: 0.0
+    }
+    timestamp: 1613201816
+    vehicle {
+      id: "2123"
+      label: "2123"
+    }
+    occupancy_percentage: 0
+  }
+}
+entity {
+  id: "2054"
+  vehicle {
+    position {
+      latitude: 30.256748
+      longitude: -97.709145
+      speed: 0.044704
+    }
+    timestamp: 1613201813
+    vehicle {
+      id: "2054"
+      label: "2054"
+    }
+    occupancy_percentage: 0
+  }
+}
+entity {
+  id: "2053"
+  vehicle {
+    position {
+      latitude: 30.2567
+      longitude: -97.70914
+      bearing: 237.0
+      speed: 0.0
+    }
+    timestamp: 1613201811
+    vehicle {
+      id: "2053"
+      label: "2053"
+    }
+    occupancy_percentage: 0
+  }
+}
+entity {
+  id: "2052"
+  vehicle {
+    position {
+      latitude: 30.257286
+      longitude: -97.70936
+      speed: 0.044704
+    }
+    timestamp: 1613201811
+    vehicle {
+      id: "2052"
+      label: "2052"
+    }
+    occupancy_percentage: 0
+  }
+}
+entity {
+  id: "2067"
+  vehicle {
+    position {
+      latitude: 30.257286
+      longitude: -97.70932
+      speed: 0.044704
+    }
+    timestamp: 1613201814
+    vehicle {
+      id: "2067"
+      label: "2067"
+    }
+    occupancy_percentage: 0
+  }
+}
+entity {
+  id: "2059"
+  vehicle {
+    position {
+      latitude: 30.25694
+      longitude: -97.70902
+      speed: 0.0
+    }
+    timestamp: 1613201816
+    vehicle {
+      id: "2059"
+      label: "2059"
+    }
+    occupancy_percentage: 0
+  }
+}
+entity {
+  id: "2058"
+  vehicle {
+    position {
+      latitude: 30.256872
+      longitude: -97.709076
+      speed: 0.044704
+    }
+    timestamp: 1613201651
+    vehicle {
+      id: "2058"
+      label: "2058"
+    }
+    occupancy_percentage: 0
+  }
+}
+entity {
+  id: "5103"
+  vehicle {
+    position {
+      latitude: 30.3762
+      longitude: -97.72398
+      speed: 0.0
+    }
+    timestamp: 1613201816
+    vehicle {
+      id: "5103"
+      label: "5103"
+    }
+    occupancy_percentage: 0
+  }
+}
+entity {
+  id: "5105"
+  vehicle {
+    position {
+      latitude: 30.376013
+      longitude: -97.72389
+      speed: 0.0
+    }
+    timestamp: 1613201815
+    vehicle {
+      id: "5105"
+      label: "5105"
+    }
+    occupancy_percentage: 0
+  }
+}
+entity {
+  id: "5013"
+  vehicle {
+    position {
+      latitude: 30.37613
+      longitude: -97.72245
+      speed: 0.0
+    }
+    timestamp: 1613201813
+    vehicle {
+      id: "5013"
+      label: "5013"
+    }
+    occupancy_percentage: 0
+  }
+}
+entity {
+  id: "9993"
+  vehicle {
+    position {
+      latitude: 30.25872
+      longitude: -97.71036
+      bearing: 238.0
+      speed: 2.2352
+    }
+    timestamp: 1613201229
+    vehicle {
+      id: "9993"
+      label: "9993"
+    }
+  }
+}
+entity {
+  id: "9991"
+  vehicle {
+    position {
+      latitude: 41.85508
+      longitude: -72.64298
+      speed: 0.0
+    }
+    timestamp: 1613201816
+    vehicle {
+      id: "9991"
+      label: "9991"
+    }
+  }
+}
+entity {
+  id: "9997"
+  vehicle {
+    position {
+      latitude: 30.25843
+      longitude: -97.71217
+      speed: 0.0
+    }
+    timestamp: 1613201816
+    vehicle {
+      id: "9997"
+      label: "9997"
+    }
+  }
+}
+entity {
+  id: "9999"
+  vehicle {
+    position {
+      latitude: 40.8059
+      longitude: -73.48301
+      speed: 0.0
+    }
+    timestamp: 1613201816
+    vehicle {
+      id: "9999"
+      label: "9999"
+    }
+  }
+}
+entity {
+  id: "5052"
+  vehicle {
+    position {
+      latitude: 30.375896
+      longitude: -97.723976
+      speed: 0.0
+    }
+    timestamp: 1613201476
+    vehicle {
+      id: "5052"
+      label: "5052"
+    }
+    occupancy_percentage: 0
+  }
+}
+entity {
+  id: "5057"
+  vehicle {
+    position {
+      latitude: 30.37391
+      longitude: -97.72418
+      speed: 0.0
+    }
+    timestamp: 1613201809
+    vehicle {
+      id: "5057"
+      label: "5057"
+    }
+    occupancy_percentage: 0
+  }
+}
+entity {
+  id: "9415"
+  vehicle {
+    position {
+      latitude: 30.37635
+      longitude: -97.72298
+      speed: 0.0
+    }
+    timestamp: 1613201815
+    vehicle {
+      id: "9415"
+      label: "9415"
+    }
+  }
+}
+entity {
+  id: "9303"
+  vehicle {
+    position {
+      latitude: 30.25692
+      longitude: -97.70859
+      speed: 0.0
+    }
+    timestamp: 1613201817
+    vehicle {
+      id: "9303"
+      label: "9303"
+    }
+  }
+}
+entity {
+  id: "5060"
+  vehicle {
+    position {
+      latitude: 30.37598
+      longitude: -97.72382
+      speed: 0.0
+    }
+    timestamp: 1613201809
+    vehicle {
+      id: "5060"
+      label: "5060"
+    }
+    occupancy_percentage: 0
+  }
+}
+entity {
+  id: "2801"
+  vehicle {
+    position {
+      latitude: 30.25658
+      longitude: -97.70794
+      speed: 0.0
+    }
+    timestamp: 1613201811
+    vehicle {
+      id: "2801"
+      label: "2801"
+    }
+    occupancy_percentage: 0
+  }
+}
+entity {
+  id: "2806"
+  vehicle {
+    position {
+      latitude: 30.25675
+      longitude: -97.70776
+      speed: 0.0
+    }
+    timestamp: 1613201813
+    vehicle {
+      id: "2806"
+      label: "2806"
+    }
+    occupancy_percentage: 0
+  }
+}
+entity {
+  id: "2805"
+  vehicle {
+    position {
+      latitude: 30.2568
+      longitude: -97.70783
+      speed: 0.0
+    }
+    timestamp: 1613201815
+    vehicle {
+      id: "2805"
+      label: "2805"
+    }
+    occupancy_percentage: 0
+  }
+}
+entity {
+  id: "2812"
+  vehicle {
+    position {
+      latitude: 30.25712
+      longitude: -97.70766
+      speed: 0.0
+    }
+    timestamp: 1613201393
+    vehicle {
+      id: "2812"
+      label: "2812"
+    }
+    occupancy_percentage: 0
+  }
+}
+entity {
+  id: "2811"
+  vehicle {
+    position {
+      latitude: 30.256977
+      longitude: -97.70765
+      speed: 0.0
+    }
+    timestamp: 1613201814
+    vehicle {
+      id: "2811"
+      label: "2811"
+    }
+    occupancy_percentage: 0
+  }
+}
+entity {
+  id: "2816"
+  vehicle {
+    position {
+      latitude: 30.25726
+      longitude: -97.70762
+      speed: 0.0
+    }
+    timestamp: 1613201813
+    vehicle {
+      id: "2816"
+      label: "2816"
+    }
+    occupancy_percentage: 0
+  }
+}
+entity {
+  id: "2814"
+  vehicle {
+    position {
+      latitude: 30.257185
+      longitude: -97.70765
+      speed: 0.044704
+    }
+    timestamp: 1613201814
+    vehicle {
+      id: "2814"
+      label: "2814"
+    }
+    occupancy_percentage: 0
+  }
+}
+entity {
+  id: "2813"
+  vehicle {
+    position {
+      latitude: 30.257063
+      longitude: -97.70763
+      speed: 0.0
+    }
+    timestamp: 1613201813
+    vehicle {
+      id: "2813"
+      label: "2813"
+    }
+    occupancy_percentage: 0
+  }
+}
+entity {
+  id: "2702"
+  vehicle {
+    position {
+      latitude: 30.257273
+      longitude: -97.70928
+      speed: 0.0
+    }
+    timestamp: 1613201813
+    vehicle {
+      id: "2702"
+      label: "2702"
+    }
+    occupancy_percentage: 0
+  }
+}
+entity {
+  id: "2708"
+  vehicle {
+    position {
+      latitude: 30.25698
+      longitude: -97.7082
+      speed: 0.0
+    }
+    timestamp: 1613201812
+    vehicle {
+      id: "2708"
+      label: "2708"
+    }
+    occupancy_percentage: 0
+  }
+}
+entity {
+  id: "2713"
+  vehicle {
+    position {
+      latitude: 30.257227
+      longitude: -97.707985
+      speed: 0.044704
+    }
+    timestamp: 1613201814
+    vehicle {
+      id: "2713"
+      label: "2713"
+    }
+    occupancy_percentage: 0
+  }
+}
+entity {
+  id: "2712"
+  vehicle {
+    position {
+      latitude: 30.25718
+      longitude: -97.70806
+      speed: 0.0
+    }
+    timestamp: 1613201808
+    vehicle {
+      id: "2712"
+      label: "2712"
+    }
+    occupancy_percentage: 0
+  }
+}
+entity {
+  id: "2711"
+  vehicle {
+    position {
+      latitude: 30.257116
+      longitude: -97.708084
+      bearing: 67.0
+      speed: 0.0
+    }
+    timestamp: 1613201813
+    vehicle {
+      id: "2711"
+      label: "2711"
+    }
+    occupancy_percentage: 0
+  }
+}
+entity {
+  id: "2710"
+  vehicle {
+    position {
+      latitude: 30.257093
+      longitude: -97.70817
+      speed: 0.044704
+    }
+    timestamp: 1613201811
+    vehicle {
+      id: "2710"
+      label: "2710"
+    }
+    occupancy_percentage: 0
+  }
+}
+entity {
+  id: "2714"
+  vehicle {
+    position {
+      latitude: 30.257349
+      longitude: -97.708015
+      speed: 0.044704
+    }
+    timestamp: 1613201354
+    vehicle {
+      id: "2714"
+      label: "2714"
+    }
+    occupancy_percentage: 0
+  }
+}
+entity {
+  id: "2601"
+  vehicle {
+    position {
+      latitude: 30.256624
+      longitude: -97.70833
+      speed: 0.0
+    }
+    timestamp: 1613201816
+    vehicle {
+      id: "2601"
+      label: "2601"
+    }
+    occupancy_percentage: 0
+  }
+}
+entity {
+  id: "2720"
+  vehicle {
+    position {
+      latitude: 30.25623
+      longitude: -97.70825
+      speed: 0.0
+    }
+    timestamp: 1613201814
+    vehicle {
+      id: "2720"
+      label: "2720"
+    }
+    occupancy_percentage: 0
+  }
+}
+entity {
+  id: "2606"
+  vehicle {
+    position {
+      latitude: 30.25727
+      longitude: -97.70783
+      speed: 0.0
+    }
+    timestamp: 1613201815
+    vehicle {
+      id: "2606"
+      label: "2606"
+    }
+    occupancy_percentage: 0
+  }
+}
+entity {
+  id: "2611"
+  vehicle {
+    position {
+      latitude: 30.25742
+      longitude: -97.70947
+      speed: 0.0
+    }
+    timestamp: 1613201817
+    vehicle {
+      id: "2611"
+      label: "2611"
+    }
+    occupancy_percentage: 0
+  }
+}
+entity {
+  id: "2610"
+  vehicle {
+    position {
+      latitude: 30.25754
+      longitude: -97.70782
+      speed: 0.0
+    }
+    timestamp: 1613201808
+    vehicle {
+      id: "2610"
+      label: "2610"
+    }
+    occupancy_percentage: 0
+  }
+}
+entity {
+  id: "2852"
+  vehicle {
+    position {
+      latitude: 30.25806
+      longitude: -97.70814
+      speed: 0.0
+    }
+    timestamp: 1613201817
+    vehicle {
+      id: "2852"
+      label: "2852"
+    }
+    occupancy_percentage: 0
+  }
+}
+entity {
+  id: "2619"
+  vehicle {
+    position {
+      latitude: 30.25793
+      longitude: -97.70771
+      speed: 0.0
+    }
+    timestamp: 1613201813
+    vehicle {
+      id: "2619"
+      label: "2619"
+    }
+    occupancy_percentage: 0
+  }
+}
+entity {
+  id: "2615"
+  vehicle {
+    position {
+      latitude: 30.257763
+      longitude: -97.70779
+      bearing: 68.0
+      speed: 0.0
+    }
+    timestamp: 1613201814
+    vehicle {
+      id: "2615"
+      label: "2615"
+    }
+    occupancy_percentage: 0
+  }
+}
+entity {
+  id: "2625"
+  vehicle {
+    position {
+      latitude: 30.25818
+      longitude: -97.70759
+      speed: 0.0
+    }
+    timestamp: 1613201812
+    vehicle {
+      id: "2625"
+      label: "2625"
+    }
+    occupancy_percentage: 0
+  }
+}
+entity {
+  id: "2865"
+  vehicle {
+    position {
+      latitude: 30.25765
+      longitude: -97.70831
+      speed: 0.0
+    }
+    timestamp: 1613201813
+    vehicle {
+      id: "2865"
+      label: "2865"
+    }
+    occupancy_percentage: 0
+  }
+}
+entity {
+  id: "2621"
+  vehicle {
+    position {
+      latitude: 30.25801
+      longitude: -97.70766
+      speed: 0.0
+    }
+    timestamp: 1613201815
+    vehicle {
+      id: "2621"
+      label: "2621"
+    }
+    occupancy_percentage: 0
+  }
+}
+entity {
+  id: "2627"
+  vehicle {
+    position {
+      latitude: 30.25763
+      longitude: -97.70824
+      speed: 0.0
+    }
+    timestamp: 1613201810
+    vehicle {
+      id: "2627"
+      label: "2627"
+    }
+    occupancy_percentage: 0
+  }
+}
+entity {
+  id: "2626"
+  vehicle {
+    position {
+      latitude: 30.2582
+      longitude: -97.70757
+      speed: 0.0
+    }
+    timestamp: 1613201817
+    vehicle {
+      id: "2626"
+      label: "2626"
+    }
+    occupancy_percentage: 0
+  }
+}
+entity {
+  id: "2635"
+  vehicle {
+    position {
+      latitude: 30.257885
+      longitude: -97.70813
+      speed: 0.0
+    }
+    timestamp: 1613201546
+    vehicle {
+      id: "2635"
+      label: "2635"
+    }
+    occupancy_percentage: 0
+  }
+}
+entity {
+  id: "2632"
+  vehicle {
+    position {
+      latitude: 30.257776
+      longitude: -97.70817
+      speed: 0.0
+    }
+    timestamp: 1613201324
+    vehicle {
+      id: "2632"
+      label: "2632"
+    }
+    occupancy_percentage: 0
+  }
+}
+entity {
+  id: "2871"
+  vehicle {
+    position {
+      latitude: 30.25759
+      longitude: -97.70827
+      speed: 0.0
+    }
+    timestamp: 1613201814
+    vehicle {
+      id: "2871"
+      label: "2871"
+    }
+    occupancy_percentage: 0
+  }
+}
+entity {
+  id: "2645"
+  vehicle {
+    position {
+      latitude: 30.25655
+      longitude: -97.70833
+      speed: 0.0
+    }
+    timestamp: 1613201817
+    vehicle {
+      id: "2645"
+      label: "2645"
+    }
+    occupancy_percentage: 0
+  }
+}
+entity {
+  id: "2403"
+  vehicle {
+    position {
+      latitude: 30.256748
+      longitude: -97.70925
+      speed: 0.0
+    }
+    timestamp: 1613201814
+    vehicle {
+      id: "2403"
+      label: "2403"
+    }
+    occupancy_percentage: 0
+  }
+}
+entity {
+  id: "2642"
+  vehicle {
+    position {
+      latitude: 30.258085
+      longitude: -97.70804
+      speed: 0.0
+    }
+    timestamp: 1613201815
+    vehicle {
+      id: "2642"
+      label: "2642"
+    }
+    occupancy_percentage: 0
+  }
+}
+entity {
+  id: "2641"
+  vehicle {
+    position {
+      latitude: 30.258036
+      longitude: -97.708046
+      speed: 0.0
+    }
+    timestamp: 1613201816
+    vehicle {
+      id: "2641"
+      label: "2641"
+    }
+    occupancy_percentage: 0
+  }
+}
+entity {
+  id: "2640"
+  vehicle {
+    position {
+      latitude: 30.258028
+      longitude: -97.70806
+      speed: 0.0
+    }
+    timestamp: 1613201817
+    vehicle {
+      id: "2640"
+      label: "2640"
+    }
+    occupancy_percentage: 0
+  }
+}
+entity {
+  id: "2409"
+  vehicle {
+    position {
+      latitude: 30.25698
+      longitude: -97.70912
+      speed: 0.0
+    }
+    timestamp: 1613201364
+    vehicle {
+      id: "2409"
+      label: "2409"
+    }
+    occupancy_percentage: 0
+  }
+}
+entity {
+  id: "2653"
+  vehicle {
+    position {
+      latitude: 30.37577
+      longitude: -97.72337
+      speed: 0.0
+    }
+    timestamp: 1613201653
+    vehicle {
+      id: "2653"
+      label: "2653"
+    }
+    occupancy_percentage: 0
+  }
+}
